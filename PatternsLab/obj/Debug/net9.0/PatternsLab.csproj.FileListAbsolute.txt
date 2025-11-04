@@ -1,0 +1,14 @@
+/Users/admin/Desktop/PatternsLab/bin/Debug/net9.0/PatternsLab
+/Users/admin/Desktop/PatternsLab/bin/Debug/net9.0/PatternsLab.deps.json
+/Users/admin/Desktop/PatternsLab/bin/Debug/net9.0/PatternsLab.runtimeconfig.json
+/Users/admin/Desktop/PatternsLab/bin/Debug/net9.0/PatternsLab.dll
+/Users/admin/Desktop/PatternsLab/bin/Debug/net9.0/PatternsLab.pdb
+/Users/admin/Desktop/PatternsLab/obj/Debug/net9.0/PatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/PatternsLab/obj/Debug/net9.0/PatternsLab.AssemblyInfoInputs.cache
+/Users/admin/Desktop/PatternsLab/obj/Debug/net9.0/PatternsLab.AssemblyInfo.cs
+/Users/admin/Desktop/PatternsLab/obj/Debug/net9.0/PatternsLab.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/PatternsLab/obj/Debug/net9.0/PatternsLab.dll
+/Users/admin/Desktop/PatternsLab/obj/Debug/net9.0/refint/PatternsLab.dll
+/Users/admin/Desktop/PatternsLab/obj/Debug/net9.0/PatternsLab.pdb
+/Users/admin/Desktop/PatternsLab/obj/Debug/net9.0/PatternsLab.genruntimeconfig.cache
+/Users/admin/Desktop/PatternsLab/obj/Debug/net9.0/ref/PatternsLab.dll
