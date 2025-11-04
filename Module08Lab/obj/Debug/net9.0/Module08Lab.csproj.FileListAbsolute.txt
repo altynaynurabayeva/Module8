@@ -1,0 +1,14 @@
+/Users/admin/Desktop/Module08Lab/bin/Debug/net9.0/Module08Lab
+/Users/admin/Desktop/Module08Lab/bin/Debug/net9.0/Module08Lab.deps.json
+/Users/admin/Desktop/Module08Lab/bin/Debug/net9.0/Module08Lab.runtimeconfig.json
+/Users/admin/Desktop/Module08Lab/bin/Debug/net9.0/Module08Lab.dll
+/Users/admin/Desktop/Module08Lab/bin/Debug/net9.0/Module08Lab.pdb
+/Users/admin/Desktop/Module08Lab/obj/Debug/net9.0/Module08Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Module08Lab/obj/Debug/net9.0/Module08Lab.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Module08Lab/obj/Debug/net9.0/Module08Lab.AssemblyInfo.cs
+/Users/admin/Desktop/Module08Lab/obj/Debug/net9.0/Module08Lab.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Module08Lab/obj/Debug/net9.0/Module08Lab.dll
+/Users/admin/Desktop/Module08Lab/obj/Debug/net9.0/refint/Module08Lab.dll
+/Users/admin/Desktop/Module08Lab/obj/Debug/net9.0/Module08Lab.pdb
+/Users/admin/Desktop/Module08Lab/obj/Debug/net9.0/Module08Lab.genruntimeconfig.cache
+/Users/admin/Desktop/Module08Lab/obj/Debug/net9.0/ref/Module08Lab.dll
