@@ -1,0 +1,14 @@
+/Users/admin/Desktop/Module08Practice/bin/Debug/net9.0/Module08Practice
+/Users/admin/Desktop/Module08Practice/bin/Debug/net9.0/Module08Practice.deps.json
+/Users/admin/Desktop/Module08Practice/bin/Debug/net9.0/Module08Practice.runtimeconfig.json
+/Users/admin/Desktop/Module08Practice/bin/Debug/net9.0/Module08Practice.dll
+/Users/admin/Desktop/Module08Practice/bin/Debug/net9.0/Module08Practice.pdb
+/Users/admin/Desktop/Module08Practice/obj/Debug/net9.0/Module08Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Module08Practice/obj/Debug/net9.0/Module08Practice.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Module08Practice/obj/Debug/net9.0/Module08Practice.AssemblyInfo.cs
+/Users/admin/Desktop/Module08Practice/obj/Debug/net9.0/Module08Practice.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Module08Practice/obj/Debug/net9.0/Module08Practice.dll
+/Users/admin/Desktop/Module08Practice/obj/Debug/net9.0/refint/Module08Practice.dll
+/Users/admin/Desktop/Module08Practice/obj/Debug/net9.0/Module08Practice.pdb
+/Users/admin/Desktop/Module08Practice/obj/Debug/net9.0/Module08Practice.genruntimeconfig.cache
+/Users/admin/Desktop/Module08Practice/obj/Debug/net9.0/ref/Module08Practice.dll
